@@ -45,15 +45,10 @@ Building AI-powered applications and solving DSA problems 🚀
 <p align="center">
 
 <img src="https://img.icons8.com/color/48/python.png"/>
-
 <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-
 <img src="https://img.icons8.com/color/48/javascript.png"/>
-
 <img src="https://img.icons8.com/color/48/react-native.png"/>
-
 <img src="https://img.icons8.com/color/48/nodejs.png"/>
-
 <img src="https://img.icons8.com/color/48/mongodb.png"/>
 
 </p>
@@ -65,9 +60,7 @@ Building AI-powered applications and solving DSA problems 🚀
 <p align="center">
 
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-
 <img src="https://img.icons8.com/color/48/git.png"/>
-
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
 
 </p>
@@ -86,19 +79,6 @@ Building AI-powered applications and solving DSA problems 🚀
 
 ### 📈 GitHub Contribution Graph
 
-[![Aakash's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aakash0023&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aakash's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aakash0023&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-### ⚡ Fun Fact
-
-```javascript
-const aakash = {
-    education: "Robotics & AI",
-    learning: "Generative AI",
-    interests: ["AI","Full Stack","DSA"],
-    goal: "Building impactful AI applications"
-}
-```
-
-⭐ Building AI-powered applications and solving DSA problems
