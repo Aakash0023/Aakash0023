@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Aakash B</h1>
 
 <h3 align="center">
-Robotics & AI Student | Full Stack Developer
+Full Stack Developer
 </h3>
 
 <p align="center">
