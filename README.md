@@ -1,9 +1,10 @@
+8
 <h1 align="center">Hi there 👋 I'm Aakash B</h1>
 
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-Building AI-powered applications and solving DSA problems 🚀
+Building AI-powered applications and solving DSA problems 
 </p>
 
 <p align="center">
